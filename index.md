@@ -20,6 +20,12 @@ seoSecondaryKeywords:
   - github pages deployment
   - dropbox backup
 seoOptimized: true
+topicFamily: automation
+topicFamilyConfidence: 1
+topicFamilyNotes: >-
+  The post focuses on automating the build, deployment, and backup of Sphinx documentation using
+  scripts, containerization, and tooling like Makefiles and GitHub Pages, which aligns precisely
+  with the 'Automation' topic family's description and example slugs.
 ---
 
 # 8rivers: Automating Documentation Build, Deployment, and Backup
@@ -73,4 +79,5 @@ A `Dockerfile` is included to support containerized execution of the build and d
 ## Summary
 
 8rivers is a practical toolkit for automating the lifecycle of documentation projects. It combines Python scripting, shell automation, and containerization to reduce manual overhead and improve reliability. The modular design allows for incremental improvements, such as enhanced error handling, expanded deployment options, and integration with CI/CD pipelines. This repository serves as a reference framework for managing documentation workflows in a reproducible and automated manner.
+
 
