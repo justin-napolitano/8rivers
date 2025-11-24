@@ -1,12 +1,26 @@
 ---
-slug: "github-8rivers"
-title: "8rivers"
-repo: "justin-napolitano/8rivers"
-githubUrl: "https://github.com/justin-napolitano/8rivers"
-generatedAt: "2025-11-23T08:32:57.671118Z"
-source: "github-auto"
+slug: github-8rivers
+title: '8rivers: Automating Sphinx Documentation Build, Deployment, and Backup'
+repo: justin-napolitano/8rivers
+githubUrl: https://github.com/justin-napolitano/8rivers
+generatedAt: '2025-11-23T08:32:57.671118Z'
+source: github-auto
+summary: >-
+  Tools and scripts for automating Sphinx documentation builds, deployment to GitHub Pages, and
+  backup to Dropbox with containerization support.
+tags:
+  - documentation
+  - sphinx
+  - github-pages
+  - dropbox
+  - automation
+seoPrimaryKeyword: documentation automation
+seoSecondaryKeywords:
+  - sphinx build
+  - github pages deployment
+  - dropbox backup
+seoOptimized: true
 ---
-
 
 # 8rivers: Automating Documentation Build, Deployment, and Backup
 
@@ -59,3 +73,4 @@ A `Dockerfile` is included to support containerized execution of the build and d
 ## Summary
 
 8rivers is a practical toolkit for automating the lifecycle of documentation projects. It combines Python scripting, shell automation, and containerization to reduce manual overhead and improve reliability. The modular design allows for incremental improvements, such as enhanced error handling, expanded deployment options, and integration with CI/CD pipelines. This repository serves as a reference framework for managing documentation workflows in a reproducible and automated manner.
+
