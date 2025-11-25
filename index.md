@@ -1,31 +1,40 @@
 ---
 slug: github-8rivers
-title: '8rivers: Automating Sphinx Documentation Build, Deployment, and Backup'
+title: Automating Documentation Build and Deployment with 8rivers
 repo: justin-napolitano/8rivers
 githubUrl: https://github.com/justin-napolitano/8rivers
 generatedAt: '2025-11-23T08:32:57.671118Z'
 source: github-auto
 summary: >-
-  Tools and scripts for automating Sphinx documentation builds, deployment to GitHub Pages, and
-  backup to Dropbox with containerization support.
+  8rivers automates the build, deployment, and backup of documentation using
+  Python and shell scripts for efficient workflows.
 tags:
   - documentation
   - sphinx
   - github-pages
   - dropbox
   - automation
+  - python
+  - github pages
+  - docker
+  - makefile
 seoPrimaryKeyword: documentation automation
 seoSecondaryKeywords:
-  - sphinx build
-  - github pages deployment
-  - dropbox backup
+  - build process automation
+  - deploying documentation
+  - backup to dropbox
+  - python scripting
+  - containerized workflows
 seoOptimized: true
 topicFamily: automation
 topicFamilyConfidence: 1
 topicFamilyNotes: >-
-  The post focuses on automating the build, deployment, and backup of Sphinx documentation using
-  scripts, containerization, and tooling like Makefiles and GitHub Pages, which aligns precisely
-  with the 'Automation' topic family's description and example slugs.
+  The post focuses on automating the build, deployment, and backup of Sphinx
+  documentation using scripts, containerization, and tooling like Makefiles and
+  GitHub Pages, which aligns precisely with the 'Automation' topic family's
+  description and example slugs.
+kind: project
+id: github-8rivers
 ---
 
 # 8rivers: Automating Documentation Build, Deployment, and Backup
