@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/8rivers
 generatedAt: '2025-11-24T21:33:50.659Z'
 source: github-auto
 summary: >-
-  8rivers provides scripts for automating the build, deployment, and backup of
-  web documentation projects using Python and shell scripting.
+  8rivers provides scripts for automating the build, deployment, and backup of web documentation
+  projects using Python and shell scripting.
 tags:
   - python
   - bash
@@ -26,8 +26,8 @@ seoSecondaryKeywords:
   - cloud backup solutions
   - github cli deployment
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: automation
+topicFamilyConfidence: 0.95
 kind: project
 entryLayout: project
 showInProjects: true
@@ -146,4 +146,5 @@ Run setup or maintenance scripts as needed:
 - Enhance Dockerfile for more robust containerization
 - Expand documentation and usage examples
 - Integrate CI/CD pipelines for automated builds and deployments
+
 
