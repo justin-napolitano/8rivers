@@ -1,14 +1,14 @@
 ---
 slug: github-8rivers
 id: github-8rivers
-title: Automate Web Documentation with 8rivers Tools
+title: Automate Web Documentation with 8rivers Scripts
 repo: justin-napolitano/8rivers
 githubUrl: https://github.com/justin-napolitano/8rivers
 generatedAt: '2025-11-24T21:33:50.659Z'
 source: github-auto
 summary: >-
-  8rivers offers scripts for automating the build, deployment, and backup of web
-  documentation projects using Python and shell scripting.
+  8rivers provides scripts for automating the build, deployment, and backup of
+  web documentation projects using Python and shell scripting.
 tags:
   - python
   - bash
@@ -17,12 +17,14 @@ tags:
   - github pages
   - dropbox api
   - makefile
+  - automation
 seoPrimaryKeyword: web documentation automation
 seoSecondaryKeywords:
-  - python documentation tools
-  - github pages deployment
+  - documentation deployment scripts
+  - python automation tools
   - html documentation generation
-  - cloud backup scripts
+  - cloud backup solutions
+  - github cli deployment
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
